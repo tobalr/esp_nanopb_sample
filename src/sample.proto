@@ -1,0 +1,8 @@
+package tobalr;
+option java_package = "dk.tobalr.nanopbsample";
+ 
+message testmessage {
+    required float temperature = 1;
+    required float humidity = 2;
+    required float batteryVoltage = 3;
+}
