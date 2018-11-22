@@ -2,7 +2,7 @@
 
 This is just a simple sample project to demonstrate how to use NanoPb for Ardunio
 
-IDE used is [Platformio]{https://platformio.org}.
+IDE used is [Platformio](https://platformio.org).
 
 `platformio.ini` describes configuration for building for Esp8266 
 
